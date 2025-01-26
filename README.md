@@ -1,6 +1,8 @@
 # **_Household Power Consumption Analysis and Prediction_**
 This project analyzes household power consumption data and builds predictive models to forecast power usage.
 
+## **Dataset Source**
+The data is sourced from the UCI Machine Learning Repository: Individual household electric power consumption Data Set. The measurements were collected between December 2006 and November 2010 (47 months).
 
 ## **Dataset Description**
 The dataset contains measurements of electric power consumption in one household with a one-minute sampling rate over a period of time. Features include:
